@@ -5,11 +5,16 @@ Reinforcement Learning, Яндекс тренировки
 
 Содержание:
 | Ноутбук | Описание |
-| `crossentropy_method` | Метод кроссэнтропии для задач управления |\\
-| `01_qlearning` | Табличный Q-learning |\\
-| `01_reinforce` | Policy gradient методы, алгоритм REINFORCE |\\
-| `01_attention` | Механизм внимания в нейросетях |\\
-| `pytorch_and_dataloaders` | Основы PyTorch: DataLoader, обучение моделей |\\
+
+| `crossentropy_method` | Метод кроссэнтропии для задач управления |
+
+| `01_qlearning` | Табличный Q-learning |
+
+| `01_reinforce` | Policy gradient методы, алгоритм REINFORCE |
+
+| `01_attention` | Механизм внимания в нейросетях |
+
+| `pytorch_and_dataloaders` | Основы PyTorch: DataLoader, обучение моделей |
 
 Стек:
 Python  PyTorch  NumPy  Gymnasium
